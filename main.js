@@ -10,3 +10,4 @@ function updateBalance(){
 updateBalance();
 
 console.log(balance);
+console.log("first commit");
