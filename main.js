@@ -26,3 +26,9 @@ getAge(age);
 
 console.log("this the code after the pay branch is merged with the main branch");
 console.log("code for second branch")
+
+function get_colour(){
+    return "red";
+}
+console.log("your selected colour is ");
+console.log(get_colour());
