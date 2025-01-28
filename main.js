@@ -37,3 +37,5 @@ console.log("this is the fourth commit in the second branch");
 
 console.log("this is my third branch");
 console.log("this is the first commit in the third branch");
+
+console.log("third branch second commit");
