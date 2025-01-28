@@ -35,5 +35,12 @@ console.log(get_colour());
 console.log("this is the third commit in the second branch");
 console.log("this is the fourth commit in the second branch");
 
+console.log("this is my third branch");
+console.log("this is the first commit in the third branch");
+
+
 console.log("this is the code after the third branch is branched ");
 console.log("break point");
+
+console.log("third branch second commit");
+console.log("third branch third commit");
