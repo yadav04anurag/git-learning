@@ -23,3 +23,6 @@ function getAge(age){
     return age;
 }
 getAge(age);
+
+console.log("this the code after the pay branch is merged with the main branch");
+console.log("code for second branch")
