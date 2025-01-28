@@ -39,3 +39,4 @@ console.log("this is my third branch");
 console.log("this is the first commit in the third branch");
 
 console.log("third branch second commit");
+console.log("third branch third commit");
