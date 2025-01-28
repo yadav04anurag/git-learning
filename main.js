@@ -34,3 +34,6 @@ console.log("your selected colour is ");
 console.log(get_colour());
 console.log("this is the third commit in the second branch");
 console.log("this is the fourth commit in the second branch");
+
+console.log("this is my third branch");
+console.log("this is the first commit in the third branch");
