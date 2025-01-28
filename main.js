@@ -10,3 +10,12 @@ function updateBalance(){
 updateBalance();
 
 console.log(balance);
+console.log("this is the code fot the pay branch");
+function add(a,b){
+    return a+b;
+}
+add(1,2);
+function show(){
+    console.log("Hello");
+}
+show();
