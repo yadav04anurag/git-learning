@@ -10,3 +10,8 @@ function updateBalance(){
 updateBalance();
 
 console.log(balance);
+console.log("this is the commit after the pay branch is created");
+function getAge(age){
+    return age;
+}
+getAge(age);
