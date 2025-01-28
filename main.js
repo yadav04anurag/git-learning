@@ -34,3 +34,6 @@ console.log("your selected colour is ");
 console.log(get_colour());
 console.log("this is the third commit in the second branch");
 console.log("this is the fourth commit in the second branch");
+
+console.log("this is the code after the third branch is branched ");
+console.log("break point");
